@@ -4,8 +4,8 @@
 git clone https://github.com/user/repo.git
 
 ## Add Remote Origin 
-git remote add origin https://github.com/user/repo.git
-git remote -v
+git remote add origin https://github.com/user/repo.git <br/>
+git remote -v <br/>
 git push -u origin master
 
 ## Update Remote Origin
