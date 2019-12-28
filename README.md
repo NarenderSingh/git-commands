@@ -1,15 +1,15 @@
-## Git-Commands for Learning
+# Git-Commands for Learning
 
-# Clone a git
+## Clone a git
 git clone https://github.com/user/repo.git
 
-# Add Remote Origin 
+## Add Remote Origin 
 git remote add origin https://github.com/user/repo.git
 git remote -v
 git push -u origin master
 
-# Update Remote Origin
+## Update Remote Origin
 git remote set-url origin https://github.com/user/repo.git
 
-# Clone a specific branch of git
+## Clone a specific branch of git
 git clone -b <branch> <remote_repo>
